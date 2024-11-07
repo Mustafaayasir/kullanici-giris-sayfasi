@@ -1,0 +1,10 @@
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\bin\Debug\proje baslangic.exe.config
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\bin\Debug\proje baslangic.exe
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\bin\Debug\proje baslangic.pdb
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje baslangic.csproj.AssemblyReference.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje_baslangic.Form1.resources
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje_baslangic.Properties.Resources.resources
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje baslangic.csproj.GenerateResource.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje baslangic.csproj.CoreCompileInputs.cache
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje baslangic.exe
+C:\Users\yldz3\OneDrive\Masaüstü\proje1\proje baslangic\proje baslangic\obj\Debug\proje baslangic.pdb
